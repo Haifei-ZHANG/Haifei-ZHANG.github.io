@@ -71,13 +71,13 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }}</p>
       {% elsif post.paperurl and post.codeurl and post.pdfurl %}
-      <p style="margin: 0;"><a href=" {{ post.paperurl }} ">[Paper Link]</a>&nbsp;&nbsp<a href="{{ post.codeurl }}">[Code]</a>&nbsp;&nbsp<a href="{{ post.pdfurl }}">[PDF]</a></p>
+      <p style="margin: 0;"><a href=" {{ post.paperurl }} " target="_blank">[Paper Link]</a>&nbsp;&nbsp<a href="{{ post.codeurl }}" target="_blank">[Code]</a>&nbsp;&nbsp<a href="{{ post.pdfurl }}" target="_blank">[PDF]</a></p>
     {% elsif post.paperurl and post.pdfurl %}
-      <p style="margin: 0;"><a href=" {{ post.paperurl }} ">[Paper Link]</a>&nbsp;&nbsp<a href="{{ post.pdfurl }}">[PDF]</a></p>
+      <p style="margin: 0;"><a href=" {{ post.paperurl }} " target="_blank">[Paper Link]</a>&nbsp;&nbsp<a href="{{ post.pdfurl }}" target="_blank">[PDF]</a></p>
     {% elsif post.paperurl and post.codeurl %}
-      <p style="margin: 0;"><a href=" {{ post.paperurl }} ">[Paper Link]</a>&nbsp;&nbsp<a href="{{ post.codeurl }}">[Code]</a></p>
+      <p style="margin: 0;"><a href=" {{ post.paperurl }} " target="_blank">[Paper Link]</a>&nbsp;&nbsp<a href="{{ post.codeurl }}" target="_blank">[Code]</a></p>
     {% elsif post.paperurl %}
-      <p style="margin: 0;"><a href=" {{ post.paperurl }} ">[Paper Link]</a></p>
+      <p style="margin: 0;"><a href=" {{ post.paperurl }} " target="_blank">[Paper Link]</a></p>
     {% endif %}
 
   </article>
