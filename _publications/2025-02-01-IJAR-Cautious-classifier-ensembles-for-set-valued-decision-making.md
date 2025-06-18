@@ -2,7 +2,7 @@
 title: "Cautious classifier ensembles for set-valued decision-making"
 collection: publications
 category: manuscripts
-permalink: /publication/025-02-01-IJAR-Cautious-classifier-ensembles-for-set-valued-decision-making
+permalink: /publication/2025-02-01-IJAR-Cautious-classifier-ensembles-for-set-valued-decision-making
 authors: "<strong>Haifei Zhang</strong>, Benjamin Quost, Marie-Hélène Masson"
 date: 2025-02-01
 venue: 'International Journal of Approximate Reasoning'

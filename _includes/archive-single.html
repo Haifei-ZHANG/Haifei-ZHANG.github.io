@@ -41,6 +41,7 @@
 
         {% if post.collection == 'teaching' %}
           <p style="margin: 0;"> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
         {% elsif post.collection == 'publications' %}
           <p style="margin: 0;">{{ post.authors }} <br />
           Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
@@ -54,9 +55,9 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %} -->
 
-    {% if post.collection == 'teaching' %}
+    <!-- {% if post.collection == 'teaching' %}
       {{ content }}
-    {% endif %}
+    {% endif %} -->
     
     {% if post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
