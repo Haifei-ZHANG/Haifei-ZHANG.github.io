@@ -3,7 +3,7 @@ title: "Cautious weighted random forests"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-03-01-ESWA-Cautious-weighted-random-forests
-authors: "Haifei Zhang, Benjamin Quost, Marie-Hélène Masson"
+authors: "<strong>Haifei Zhang</strong>, Benjamin Quost, Marie-Hélène Masson"
 date: 2023-03-01
 venue: 'Expert Systems with Applications'
 pdfurl: 'http://haifei-zhang.github.io/files/2023-03-01-ESWA-Cautious-weighted-random-forests.pdf'
