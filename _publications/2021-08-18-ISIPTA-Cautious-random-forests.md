@@ -4,6 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2021-08-18-ISIPTA-Cautious-random-forests
 # excerpt: 'This paper is about a ...'
+authors: "Haifei Zhang, Benjamin Quost, Marie-Hélène Masson"
 date: 2021-08-18
 venue: 'Proceedings of the Twelveth International Symposium on Imprecise Probability: Theories and Applications (ISIPTA-21)'
 pdfurl: 'http://haifei-zhang.github.io/files/2021-08-18-ISIPTA-Cautious-random-forests.pdf'

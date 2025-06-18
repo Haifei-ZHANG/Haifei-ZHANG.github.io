@@ -4,11 +4,11 @@ collection: publications
 category: conferences
 permalink: /publication/2022-08-25-SMPS-Explaining-cautious-random-forests-via-counterfactuals
 # excerpt: 'This paper is about a ...'
+authors: "Haifei Zhang, Benjamin Quost, Marie-Hélène Masson"
 date: 2022-08-25
 venue: 'International Conference on Soft Methods in Probability and Statistics (SMPS-22)'
-paperurl: 'http://haifei-zhang.github.io/files/2022-08-25-SMPS-Explaining-cautious-random-forests-via-counterfactuals'
-slidesurl: 'http://haifei-zhang.github.io/files/2022-08-25-SMPS-Explaining-cautious-random-forests-via-counterfactuals'
-link: 'https://doi.org/10.1007/978-3-031-15509-3_51'
+pdfurl: 'http://haifei-zhang.github.io/files/2022-08-25-SMPS-Explaining-cautious-random-forests-via-counterfactuals'
+paperurl: 'https://doi.org/10.1007/978-3-031-15509-3_51'
 # citation: 'Zhang, H., Quost, B., & Masson, M. H. (2022, August). Explaining cautious random forests via counterfactuals. In International Conference on Soft Methods in Probability and Statistics (pp. 390-397). Cham: Springer International Publishing.'
 ---
 
