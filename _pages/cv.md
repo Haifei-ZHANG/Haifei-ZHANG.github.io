@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-### You can download my CV here: [Download PDF](https://haifei-zhang.github.io/files/CV_Haifei_Zhang.pdf)
+## You can download my CV here: <a href="https://haifei-zhang.github.io/files/CV_Haifei_Zhang.pdf" target="_blank" rel="noopener noreferrer">[Download PDF]</a>()
 <!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
