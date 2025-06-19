@@ -9,8 +9,10 @@ author_profile: true
 
 ## Supervision
 ### Internships
-- **Patrick**: Interpretable Hybrid AI with Uncertainty Measure (April-Aug 2025， co-supervised with E. Brandao)
-- **Mahima Haridasan Sumathy**: Development of a Complexity Dataset for Physics-Informed Machine Learning and Beyond (April-Aug 2025， co-supervised with E. Brandao)
+- **Patrick Barry**: April-Aug 2025, co-supervised with E. Brandao
+  - Interpretable Hybrid AI with Uncertainty Measure ()
+- **Mahima Haridasan Sumathy**: April-Aug 2025, co-supervised with E. Brandao
+  - Development of a Complexity Dataset for Physics-Informed Machine Learning and Beyond
 
 
 ## Courses

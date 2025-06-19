@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+### You can download my CV here: [Download PDF](https://haifei-zhang.github.io/files/CV_Haifei_Zhang.pdf)
+<!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
@@ -61,4 +62,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
