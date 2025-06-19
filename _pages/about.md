@@ -11,7 +11,7 @@ I am curently an Assistant Professor (Maître de Conférence in France) at the [
 
 My research interests are complex data analysis, graph representation learning, trustworthy AI and XAI, cautious classifiers and uncertainty management in machine learning.
 
-### News
+## News
 - [2025-06-16] Our paper **"Efficient and Effective Counterfactual Explanations for Random Forests"** is accepted by *Expert Systems With Applications*. 
 - [2024-11-19] Our paper **"Cautious classifier ensembles for set-valued decision-making"** is accepted by *International Journal of Approximate Reasoning*. 
 - [2024-11-15] Our paper **"Credal ensembling in multi-class classification"** is accepted by *Machine Learning*. 
