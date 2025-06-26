@@ -2,11 +2,11 @@
 title: "Efficient and Effective Counterfactual Explanations for Random Forests"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-16-18-ESWA-Efficient-and-Effective-Counterfactual-Explanations-for-Random-Forests
+permalink: /publication/2025-06-18-ESWA-Efficient-and-Effective-Counterfactual-Explanations-for-Random-Forests
 authors: "<strong>Haifei Zhang</strong>, Jinfeng Zhong"
 date: 2025-06-18
 venue: 'Expert Systems With Applications'
-pdfurl: 'http://haifei-zhang.github.io/files/2025-16-18-ESWA-Efficient-and-Effective-Counterfactual-Explanations-for-Random-Forests.pdf'
+pdfurl: 'http://haifei-zhang.github.io/files/2025-06-18-ESWA-Efficient-and-Effective-Counterfactual-Explanations-for-Random-Forests.pdf'
 paperurl: 'https://doi.org/10.1016/j.eswa.2025.128661'
 codeurl: 'https://github.com/Haifei-ZHANG/EECE'
 ---
