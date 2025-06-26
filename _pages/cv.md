@@ -9,7 +9,7 @@ author_profile: true
 
 ## You can download my CV here: 
 
-- <a href="https://haifei-zhang.github.io/files/CV_Haifei_Zhang_EN.pdf" target="_blank" rel="noopener noreferrer">Download PDF (English version)</a>
+- <a href="https://haifei-zhang.github.io/files/CV_Haifei_Zhang_EN.pdf" target="_blank" rel="noopener noreferrer">Download PDF (english version)</a>
 
 - <a href="https://haifei-zhang.github.io/files/CV_Haifei_Zhang_CH.pdf" target="_blank" rel="noopener noreferrer">Download PDF (chinese version)</a>
 <!-- Education
