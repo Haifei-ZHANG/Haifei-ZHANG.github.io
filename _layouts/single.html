@@ -36,6 +36,8 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif post.collection == 'portfolio' %}
+         <p><strong>Funding: {{ post.funding }} <br /> Period: {{ post.period}}</strong> </p>
         {% elsif page.venue and page.date and page.authors and page.paperurl %}
           <p>{{ page.authors }}<br />Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} <br /><a href=" {{ page.paperurl }} " target="_blank">{{ page.paperurl }}</a></p>
         {% elsif page.venue and page.date and page.authors %}
