@@ -17,9 +17,9 @@ My research interests are
 - Graph representation learning (GNNs).
 
 ## News
-- [2025-06-16] Our paper [**"Efficient and Effective Counterfactual Explanations for Random Forests"**](https://doi.org/10.1016/j.eswa.2025.128661) is accepted by *Expert Systems With Applications*. 
-- [2024-11-19] Our paper [**"Cautious classifier ensembles for set-valued decision-making"**](https://doi.org/10.1016/j.ijar.2024.109328) is accepted by *International Journal of Approximate Reasoning*. 
-- [2024-11-15] Our paper [**"Credal ensembling in multi-class classification"**](https://doi.org/10.1007/s10994-024-06703-y) is accepted by *Machine Learning*. 
+- [2025-06-16] Our paper <a href="https://doi.org/10.1016/j.eswa.2025.128661" target="_blank" rel="noopener noreferrer">**"Efficient and Effective Counterfactual Explanations for Random Forests"**</a> is accepted by *Expert Systems With Applications*. 
+- [2024-11-19] Our paper <a href="https://doi.org/10.1016/j.ijar.2024.109328" target="_blank" rel="noopener noreferrer">**"Cautious classifier ensembles for set-valued decision-making"**</a> is accepted by *International Journal of Approximate Reasoning*. 
+- [2024-11-15] Our paper <a href="https://doi.org/10.1007/s10994-024-06703-y" target="_blank" rel="noopener noreferrer">**"Credal ensembling in multi-class classification"**</a> is accepted by *Machine Learning*. 
 - [2024-09-02] I start my position in Laboratoire Hubert Curien of Université Jean Monnet Saint-Etienne.
 
 
