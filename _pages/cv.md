@@ -8,10 +8,12 @@ author_profile: true
 {% include base_path %}
 
 ## You can download my CV here: 
-
 - <a href="https://haifei-zhang.github.io/files/CV_Haifei_Zhang_EN.pdf" target="_blank" rel="noopener noreferrer">Download PDF (english version)</a>
-
 - <a href="https://haifei-zhang.github.io/files/CV_Haifei_Zhang_CH.pdf" target="_blank" rel="noopener noreferrer">Download PDF (chinese version)</a>
+  
+
+
+  
 <!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
