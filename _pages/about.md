@@ -17,7 +17,7 @@ My research interests are
 - Graph representation learning (GNNs).
 
 ## News
-- [2025-07-18] Our paper **Uncertainty-Aware Concept Bottleneck Models with Enhanced Interpretability** has been accepted by *Workshop AIMLAI@ECML/PKDD 2025* (30% of acceptance rate).
+- [2025-07-18] Our paper **"Uncertainty-Aware Concept Bottleneck Models with Enhanced Interpretability"** has been accepted by *Workshop AIMLAI@ECML-PKDD 2025* (30% of acceptance rate).
 - [2025-06-16] Our paper <a href="https://doi.org/10.1016/j.eswa.2025.128661" target="_blank" rel="noopener noreferrer">**"Efficient and Effective Counterfactual Explanations for Random Forests"**</a> has been accepted by *Expert Systems With Applications*. Free access until August 13, 2025 via the share link <a href="https://authors.elsevier.com/a/1lJ-J3PiGTXIz7" target="_blank" rel="noopener noreferrer">https://authors.elsevier.com/a/1lJ-J3PiGTXIz7</a>.
 - [2024-03-22] I have become a council member of Association d'Intelligence Artificielle France-Chine (AIFC).
 - [2024-01-20] I have become a member of Fédération Informatique de Lyon - CNRS (FIL).
@@ -35,6 +35,7 @@ My research interests are
 - Forum for Economic and Financial Studies: 2025
 
 
+
 ## Membership
-- Association d'Intelligence Artificielle France-Chine (AIFC): Council member
-- Fédération Informatique de Lyon: member
+- Association d'Intelligence Artificielle France-Chine (AIFC): Council Member
+- Fédération Informatique de Lyon: Member
