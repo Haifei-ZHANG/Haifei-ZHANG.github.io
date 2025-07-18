@@ -19,8 +19,8 @@ My research interests are
 ## News
 - [2025-07-18] Our paper **"Uncertainty-Aware Concept Bottleneck Models with Enhanced Interpretability"** has been accepted by *Workshop AIMLAI@ECML-PKDD 2025* (30% of acceptance rate).
 - [2025-06-16] Our paper <a href="https://doi.org/10.1016/j.eswa.2025.128661" target="_blank" rel="noopener noreferrer">**"Efficient and Effective Counterfactual Explanations for Random Forests"**</a> has been accepted by *Expert Systems With Applications*. Free access until August 13, 2025 via the share link <a href="https://authors.elsevier.com/a/1lJ-J3PiGTXIz7" target="_blank" rel="noopener noreferrer">https://authors.elsevier.com/a/1lJ-J3PiGTXIz7</a>.
-- [2024-03-22] I have become a council member of Association d'Intelligence Artificielle France-Chine (AIFC).
-- [2024-01-20] I have become a member of Fédération Informatique de Lyon - CNRS (FIL).
+- [2025-03-22] I have become a council member of Association d'Intelligence Artificielle France-Chine (AIFC).
+- [2025-01-20] I have become a member of Fédération Informatique de Lyon - CNRS (FIL).
 - [2024-11-19] Our paper <a href="https://doi.org/10.1016/j.ijar.2024.109328" target="_blank" rel="noopener noreferrer">**"Cautious classifier ensembles for set-valued decision-making"**</a> has been accepted by *International Journal of Approximate Reasoning*. 
 - [2024-11-15] Our paper <a href="https://doi.org/10.1007/s10994-024-06703-y" target="_blank" rel="noopener noreferrer">**"Credal ensembling in multi-class classification"**</a> has been accepted by *Machine Learning*. 
 - [2024-09-02] I started my position of Associate Professor (Maître de Conférence in France) in Université Jean Monnet Saint-Etienne.
